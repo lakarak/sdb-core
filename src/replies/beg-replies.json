@@ -1,3 +1,5 @@
 `You beg and get ${payment.toLocaleString()} credits for 1 day worth of begging!`,
 `Eh you tell your friend you don't have money so they give you ${payment.toLocaleString()} credits!`,
 `You beg at random people at street and he only give you ${payment.toLocaleString()} credits!`
+`You play a guitar on the street and someone gives you ${payment.toLocaleString()} credits!`
+`You look for credits on the floor and find ${payment.toLocaleString()} credits!`
