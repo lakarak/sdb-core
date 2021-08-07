@@ -9,3 +9,8 @@
 `You got rewarded with ${payment.toLocaleString()} credits for delivering the mail.`,
 `${payment.toLocaleString()} credits were transferred to your bank account for helping the developers.`,
 `You got ${payment.toLocaleString()} credits for fixing the your neighbour house.`,
+`You counted your tips and got ${payment.toLocaleString()} credits!`,
+`After doing taxi work, you receive ${payment.toLocaleString()} credits!`,
+`You play the role in a rock concert and earn ${payment.toLocaleString()} credits!`,
+`You've sent in your final commission and get paid ${payment.toLocaleString()} credits!`,
+`Your customer pays you ${payment.toLocaleString()} credits to finish his work.`,
